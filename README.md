@@ -69,12 +69,13 @@
 </p>
 
 <p>&nbsp;</p>
+<br>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hardik-Techie&show_icons=true&locale=en" alt="Hardik-Techie" />
 </p>
 
-<p>&nbsp;</p>
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-Techie&" alt="Hardik-Techie" />
