@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://twitter.com/hardikfgp" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hardikfgp" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="hardikfgp" height="30" width="40" />
   </a>
 
   <a href="https://instagram.com/hardikksrivastava" target="blank">
