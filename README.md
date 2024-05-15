@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hardik Srivastava</h1>
 
-<h3 align="center">I'm someone passionate about the art of coding.</h3>
+<h3 align="center">I'm someone who is passionate about the art of coding.</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
