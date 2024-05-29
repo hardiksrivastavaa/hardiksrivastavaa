@@ -10,7 +10,7 @@
   <!-- - 💬 Ask me about **DSA and Hyperparameter Tuning** -->
 - 📫 How to reach me **hardikfgp@gmail.com**
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing](https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing) -->
-- ⚡ Fun fact **I can solve a Rubik's Cube in under 40 seconds! 🧊⏱️**
+<!-- ⚡ Fun fact **I can solve a Rubik's Cube in under 40 seconds! 🧊⏱️**-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hardikksrivastava/) 
