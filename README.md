@@ -46,7 +46,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hardik-Techie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![GitHub followers](https://img.shields.io/github/followers/Hardik-Techie?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/Hardik-Techie?style=social)
+
+[![](https://visitcount.itsvg.in/api?id=Hardik-Techie&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=Hardik-Techie&icon=0&color=0)](https://visitcount.itsvg.in)
