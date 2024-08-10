@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **Frontend Development**
-- 🌱 I’m currently learning **Javascript**
+<!--  🔭 I’m currently working on **Frontend Development** -->
+- 🌱 I’m currently learning **Java**
   <!-- - 🤝 I’m looking for help with **MLops** -->
   <!-- - 💬 Ask me about **DSA and Hyperparameter Tuning** -->
 - 📫 How to reach me **hardikfgp@gmail.com**
