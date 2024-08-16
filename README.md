@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 <!--  🔭 I’m currently working on **Frontend Development** -->
-- 🌱 I’m currently learning **Core Java & Advanced Java with Springboot**
+- 🌱 I’m currently learning **Core & Advanced Java with Springboot**
   <!-- - 🤝 I’m looking for help with **MLops** -->
   <!-- - 💬 Ask me about **DSA and Hyperparameter Tuning** -->
 - 📫 How to reach me **hardikfgp@gmail.com**
