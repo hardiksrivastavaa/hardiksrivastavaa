@@ -45,8 +45,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=hardiksrivastavaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub followers](https://img.shields.io/github/followers/hardiksrivastavaa?style=social)
-![GitHub stars](https://img.shields.io/github/stars/hardiksrivastavaa?style=social)
-
-
 
