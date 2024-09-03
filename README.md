@@ -1,5 +1,9 @@
 <h1 align="center">Hi I'm Hardik Srivastava</h1>
 
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE;WEB+DEV;Communitiy+Building+👨‍💻" /></a>
+</p>
+
 <h3 align="center">I'm someone who is passionate about the art of coding.</h3>
 
 # 💫 About Me:
