@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Hardik Srivastava</h1>
+<h1 align="center">Hi I'm Hardik Srivastava 🤝</h1>
 
 <!-- <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&lines=Welcome+to+my+GitHub+Profile!;I’m+interested+in+OPEN+SOURCE;WEB+DEV;Communitiy+Building+👨‍💻" /></a>
@@ -9,10 +9,9 @@
 
 # 💫 About Me:
 
-<!--  🔭 I’m currently working on **Frontend Development** -->
 - 🌱 I’m currently learning **React.js**
-  <!-- - 🤝 I’m looking for help with **MLops** -->
-  <!-- - 💬 Ask me about **DSA and Hyperparameter Tuning** -->
+- 🤝 I’m looking to collaborate on **Frontend Projects**.
+- 💬 Ask me about **Frontend Technologies.**
 - 📫 How to reach me **hardikfgp@gmail.com**
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing](https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing) -->
 <!-- ⚡ Fun fact **I can solve a Rubik's Cube in under 40 seconds! 🧊⏱️**-->
