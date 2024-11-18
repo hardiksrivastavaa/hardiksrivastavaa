@@ -2,24 +2,36 @@
 
 <h3 align="center">I'm someone who is passionate about the art of coding.</h3>
 
-# 💫 About Me:
+# 💫 About Me
 
 - 🌱 I’m currently learning **React.js**
 - 🤝 I’m looking to collaborate on **Frontend Projects**.
 - 💬 Ask me about **Frontend Technologies.**
 - 📫 How to reach me **hardikfgp@gmail.com**
 <!-- 
-📄 Know about my experiences [https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing](https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing) 
-⚡ Fun fact **I can solve a Rubik's Cube in under 40 seconds! 🧊⏱️
+- 📄 Know about my experiences [https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing](https://drive.google.com/file/d/14sCTjvkkkZLvASgleMiLOajo2M-jiR_O/view?usp=sharing) 
+- ⚡ Fun fact **I can solve a Rubik's Cube in under 40 seconds! 🧊⏱️
 -->
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardiksrivastavaaa/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardiksrivastavaa) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/@hardikfgp) 
 [![Telegram](https://img.shields.io/badge/Telegram-black.svg?logo=Telegram&logoColor=white)](https://https://t.me/saranshsrivastava)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-%233B5998.svg?logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%238DBF44.svg?logo=whatsapp&logoColor=white)](https://wa.me/)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/)
+[![Discord](https://img.shields.io/badge/Discord-%235265F4.svg?logo=discord&logoColor=white)](https://discord.com/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/)
+[![Behance](https://img.shields.io/badge/Behance-%23191919.svg?logo=behance&logoColor=white)](https://www.behance.net/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-%23E64A5F.svg?logo=dribbble&logoColor=white)](https://dribbble.com/)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
 
-## 💻 Tech Stacks :
+
+## 💻 Tech Stacks 
 
 <!-- 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
@@ -36,6 +48,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=plastic&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)
+
+### Java Full-Stack 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23923926.svg?style=plastic&logo=hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=thymeleaf&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)  
+![JPA](https://img.shields.io/badge/JPA-%231A5276.svg?style=plastic&logo=java&logoColor=white)
+
 -->
 
 ### MERN Stack 
@@ -50,15 +72,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
 
-### Java Full-Stack 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%23923926.svg?style=plastic&logo=hibernate&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=thymeleaf&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)  
-![JPA](https://img.shields.io/badge/JPA-%231A5276.svg?style=plastic&logo=java&logoColor=white)
-
 ### Common Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=plastic&logo=github&logoColor=white)
@@ -71,10 +84,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![STS](https://img.shields.io/badge/Spring%20Tool%20Suite-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 
-
 --- 
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=hardiksrivastavaa&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardiksrivastavaa&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardiksrivastavaa&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
