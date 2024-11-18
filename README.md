@@ -20,6 +20,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-black.svg?logo=Telegram&logoColor=white)](https://https://t.me/saranshsrivastava)
 
 ## 💻 Tech Stacks :
+
 <!-- 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
@@ -38,7 +39,6 @@
 -->
 
 ### MERN Stack 
-
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -50,9 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
 
---
-
-#### Java Full-Stack 
+### Java Full-Stack 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23923926.svg?style=plastic&logo=hibernate&logoColor=white)
@@ -60,8 +58,6 @@
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=plastic&logo=apache-maven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white)  
 ![JPA](https://img.shields.io/badge/JPA-%231A5276.svg?style=plastic&logo=java&logoColor=white)
-
---
 
 ### Common Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
