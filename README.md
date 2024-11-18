@@ -66,8 +66,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=plastic&logo=railway&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/cloudinary-%233498DB.svg?style=plastic&logo=cloudinary&logoColor=white)
+![WAMP Server](https://img.shields.io/badge/WAMP%20Server-%23DCDCDC.svg?style=plastic&logo=wampserver&logoColor=%23FF8800)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![STS](https://img.shields.io/badge/Spring%20Tool%20Suite-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+
 
 --- 
 
