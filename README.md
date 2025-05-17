@@ -12,11 +12,9 @@
 
 ## 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardiksrivastavaa/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardiksrivastavaa) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/@hardikfgp) 
-[![Telegram](https://img.shields.io/badge/Telegram-black.svg?logo=Telegram&logoColor=white)](https://t.me/hardiksrivastavaa)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/hardiksrivastavaa)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardiksrivastavaa/) 
 
 ## 💻 Tech Stacks 
 
